@@ -1,0 +1,2 @@
+#Prototype chain
+series of links between Javascript objects, linked through prototypes.
